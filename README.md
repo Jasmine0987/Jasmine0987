@@ -1,4 +1,8 @@
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/atlas-about?username=jasmine0987&mode=light" />
+  <img src="https://www.gitskins.com/api/section/atlas-about?username=jasmine0987&mode=dark" width="100%" alt="About jasmine0987: Open-source maintainer" />
+</picture>
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-graph?username=jasmine0987&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F89407304%3Fv%3D4&mode=light" />
   <img src="https://www.gitskins.com/api/section/map-graph?username=jasmine0987&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F89407304%3Fv%3D4&mode=dark" width="100%" alt="A map of Jasmine's projects" />
 </picture>
