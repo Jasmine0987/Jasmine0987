@@ -109,6 +109,20 @@ A closer look at projects I’ve built—from practical AI tools to full-stack s
   </tr>
 </table>
 
+## Tools I Use
+
+**Languages:** Python · JavaScript · TypeScript · Java · SQL  
+**AI & machine learning:** PyTorch · TensorFlow · scikit-learn · YOLOv8 · CLIP · Sentence-BERT · FAISS · OpenCV · Hugging Face · Gemini API · LangChain · Ollama · NumPy · Pandas · KeyBERT · MobileNetV2  
+**Web & backend:** React · Redux Toolkit · Three.js · Streamlit · FastAPI · Node.js · Express.js · Spring Boot · REST APIs · WebSockets · MQTT · Kafka  
+**Data & infrastructure:** PostgreSQL · SQLite · Redis · Docker · Git · GitHub · Postman · pytest · Maven · Raspberry Pi · Oracle Cloud Infrastructure · AWS  
+**Core areas:** Machine learning · deep learning · computer vision · NLP · generative AI · LLMs · vector search · object detection · OCR · data structures & algorithms
+
+## Experience & Learning
+
+- **AI/ML Intern** — AICTE–Edunet Foundation × IBM SkillsBuild (Jan–Feb 2026); built StyleSync, an AI fashion assistant.
+- **Certifications:** Oracle Cloud Infrastructure 2025 Generative AI Professional (LLMs and RAG, Aug 2026) · AWS Academy Generative AI Foundations (May 2026) · IBM SkillsBuild AI (Feb 2026).
+- **Forage job simulations** (May 2026): JPMorgan Software Engineering · JPMorgan Investment Banking · Deloitte Data Analytics · Tata Data Visualisation.
+
 ## Contributions
 
 <picture>
