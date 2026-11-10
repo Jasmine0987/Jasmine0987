@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/atlas-about?username=jasmine0987&mode=light" />
-  <img src="https://www.gitskins.com/api/section/atlas-about?username=jasmine0987&mode=dark" width="100%" alt="About Jasmine: Open-source maintainer" />
+  <img src="https://www.gitskins.com/api/section/atlas-about?username=jasmine0987&mode=dark" width="100%" alt="About The Octocat: Open-source maintainer" />
 </picture>
 
 <picture>
