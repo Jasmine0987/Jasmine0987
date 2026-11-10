@@ -81,8 +81,9 @@ A JPMC Forage project exploring a small payment-processing service: transactions
   <img src="https://www.gitskins.com/api/section/atlas-log?username=jasmine0987&mode=dark" width="100%" alt="Jasmine's GitHub contributions, streak, and year at a glance" />
 </picture>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jasmine0987&theme=nightowl&hide_border=true&cache_seconds=86400" width="80%" alt="Jasmine's GitHub contribution streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/story-timeline?username=jasmine0987&mode=light" />
+  <img src="https://www.gitskins.com/api/section/story-timeline?username=jasmine0987&mode=dark" width="100%" alt="Contributions week by week, with my longest streak" />
+</picture>
 
 <sub>Project Map · drawn from my public repositories · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
