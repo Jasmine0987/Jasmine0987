@@ -104,7 +104,7 @@ A closer look at projects I’ve built—from practical AI tools to full-stack s
       <p>A JPMC Forage project exploring a small payment-processing service: transactions arrive as messages, account balances are updated in a database, and balances can be checked through a REST API. The implementation was validated against five test stages.</p>
     </td>
     <td width="32%" align="right" valign="middle">
-      <a href="https://github.com/Jasmine0987/forage-midas"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/map-card?username=jasmine0987&i=8&r=forage-midas&mode=light" /><img src="https://www.gitskins.com/api/section/map-card?username=jasmine0987&i=8&r=forage-midas&mode=dark" width="100%" alt="Midas Core repository card" /></picture></a>
+      <a href="https://github.com/Jasmine0987/forage-midas"><img src="https://img.shields.io/badge/MIDAS%20CORE-Open%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Midas Core — open the GitHub repository" /></a>
     </td>
   </tr>
 </table>
