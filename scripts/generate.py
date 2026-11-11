@@ -343,7 +343,7 @@ def expedition(t, days):
         best = max(best, run)
     year = str(dt.date.today().year)
     steps = sum(c for d, c in days if d.startswith(year))
-    stats = [("DAYS TRAVELLING", f"{active} days"), ("LONGEST JOURNEY", f"{best} days"), ("STEPS THIS YEAR", f"{steps:,}")]
+    stats = [("DAYS TRAVELLING", f"{active} days"), ("LONGEST JOURNEY", f"{best} days"), ("CONTRIBUTIONS THIS YEAR", f"{steps:,}")]
     for i, (lab, val) in enumerate(stats):
         y = 92 + i * 56
         body += (f'<text x="520" y="{y}" font-size="12" letter-spacing="1" font-family="{MONO}" fill="{t["sub"]}">{lab}</text>'
