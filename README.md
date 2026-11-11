@@ -152,4 +152,4 @@ A closer look at projects I’ve built—from practical AI tools to full-stack s
   <img src="https://www.gitskins.com/api/section/story-timeline?username=jasmine0987&mode=dark" width="100%" alt="Jasmine's contributions week by week, including the longest streak" />
 </picture>
 
-<sub>Project Map · drawn from my public repositories </sub>
+<sub>Project Map · drawn from my public repositories · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
