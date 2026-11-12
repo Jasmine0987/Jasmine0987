@@ -358,6 +358,7 @@ def main():
     prof, repos, days = load_profile(), load_repos(), load_days()
     by_name = {r["name"]: r for r in repos}
     print(f"  {len(repos)} repos, {len(days)} days")
+    print("  total contributions:", sum(c for _, c in days))
     print("Rendering…")
     for mode, t in THEMES.items():
         save("cartographer", mode, cartographer(t, prof, repos))
